@@ -20,9 +20,8 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Behavioral Economics
+- Experimental Economics
 
 education:
   courses:

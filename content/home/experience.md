@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Professional Experience"
+title = "Experience"
 subtitle = ""
 
 # Date format for experience
@@ -17,7 +17,7 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[[experience]]
+[[experience]]
   title = "CEO"
   company = "GenCoin"
   company_url = ""

@@ -68,7 +68,6 @@ user_groups:
 ---
 
 
-</br>
 
 I am a PhD student in Economics at Warwick University.
 I do research in Behavioral and Experimental Economics.

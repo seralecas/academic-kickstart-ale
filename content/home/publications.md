@@ -70,4 +70,21 @@ subtitle = ""
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
 
-Alessandro Castagnetti
+Working Papers
+
+Paper 1
+
+Paper 2
+
+Work in Progress
+
+Paper 3
+
+Paper 4 
+
+Paper 5
+
+
+
+
+

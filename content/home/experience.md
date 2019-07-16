@@ -31,6 +31,7 @@ date_format = "Jan 2006"
   * Data Analysis
   * Report Writing
   """
++++
 
 [[experience]]
   title = "Professossr"
@@ -43,6 +44,7 @@ date_format = "Jan 2006"
 
 +++
 
+[[experience]]
   title = "Economics Analyst"
   company = "London Economics"
   company_url = ""

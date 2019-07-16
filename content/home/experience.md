@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   location = "London"
   date_start = "01-04-2017"
   date_end = "01-10-2017"
-  description = """
+  description = ""
   Responsibilities include:
   
   * Economic Modelling

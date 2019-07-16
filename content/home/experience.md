@@ -22,23 +22,15 @@ date_format = "Jan 2006"
   company = "London Economics"
   company_url = ""
   location = "London"
-  date_start = "2016-04-01"
-  date_end = "2016-10-01"
+  date_start = "2017-04-01"
+  date_end = "2017-10-01"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Economic Modelling
+  * Experimental Design
+  * Data Analysis
+  * Report Writing
   """
-
-[[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++

@@ -42,3 +42,16 @@ date_format = "Jan 2006"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
+
+  title = "Economics Analyst"
+  company = "London Economics"
+  company_url = ""
+  location = "London"
+  date_start = "01-04-2017"
+  date_end = "02-10-2017"
+  description = """
+  Responsibilities include:
+  
+  * Economic Modelling
+  * Data Analysis
+  * Report Writing

@@ -18,8 +18,8 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Economic Analyst"
-  company = "London Economics"
+  title = "EconomicAnalyst"
+  company = "LondonEconomics"
   company_url = ""
   location = "London"
   date_start = "2016-01-01"

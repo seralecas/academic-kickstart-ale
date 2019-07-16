@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "London Economics"
   company_url = ""
   location = "London"
-  date_start = "01-04-2017"
-  date_end = "03-10-2017"
+  date_start = "2016-01-01"
+  date_end = "2016-01-01"
   description = """
   Responsibilities include:
   

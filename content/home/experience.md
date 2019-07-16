@@ -33,5 +33,3 @@ date_format = "Jan 2006"
   * Data Analysis
   * Report Writing
   """
-
-+++

@@ -74,16 +74,17 @@ subtitle = ""
  css_class = ""
 +++
 <u>Teaching (2019-2020)</u>
-\begin{enumerate}
-\item EC989: Behavioural Economics
-\end{enumerate}
+<ul>
+<li>EC989: Behavioural Economics<li>
+</ul>
 
 <u>Teaching (2018-2019)</u>
-
-*EC989: Behavioural Economics
-
+<ul>
+EC989: Behavioural Economics
+<ul>
 <u>Teaching (2017-2018)</u>
-
-*EC989: Behavioural Economics
-*EC345: Behavioural Economics
-*EC131: Economics for Business
+</ul>
+<li>EC989: Behavioural Economics</li>
+<li>EC345: Behavioural Economics</li>
+<li>EC131: Economics for Business</li>
+</ul>

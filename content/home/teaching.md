@@ -81,9 +81,9 @@ subtitle = ""
 <u>Teaching (2018-2019)</u>
 <ul>
 <li>EC989: Behavioural Economics</li>
-<ul>
+</ul>
+
 <u>Teaching (2017-2018)</u>
-  
 <ul>
 <li>EC989: Behavioural Economics</li>
 <li>EC345: Behavioural Economics</li>

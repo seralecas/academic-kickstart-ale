@@ -73,9 +73,13 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+Teaching (2019-2020)
+*EC989: Behavioural Economics
+
 Teaching (2018-2019)
-EC989: Behavioural Economics
+*EC989: Behavioural Economics
+
 Teaching (2017-2018)
-EC131: Economics for Business
-EC345: Behavioural Economics
-EC989: Behavioural Economics
+*EC989: Behavioural Economics
+*EC345: Behavioural Economics
+*EC131: Economics for Business
